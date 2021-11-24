@@ -1,0 +1,8 @@
+{
+	"Home" : {
+		"Rooms" : 5,
+		"People" : 5,
+		"Exits" : 3,
+		"Lights" : 10
+	}
+}
